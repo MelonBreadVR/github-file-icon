@@ -25,6 +25,7 @@
     "zip": "zip -r build/GitHub_File_Icon_$npm_package_version.zip build"
   },
   "dependencies": {
+    "delay": "^2.0.0",
     "file-icons-js": "^1.0.3",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
